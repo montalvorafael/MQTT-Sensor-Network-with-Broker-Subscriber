@@ -17,11 +17,11 @@ This project implements a custom MQTT-like communication protocol with support f
 - Wildcard `+` support in topic filtering
 - Real sensor simulation via Wokwi
 
-##start the broker
+## Start the broker
 
 ./broker <IP_ADDRESS> <PORT>
 
-##Start the subscriber
+## Start the subscriber
 
 ./subscriber <IP_ADDRESS> <PORT> <TOPIC>
 
