@@ -16,3 +16,13 @@ This project implements a custom MQTT-like communication protocol with support f
 - Logging system to track message flow
 - Wildcard `+` support in topic filtering
 - Real sensor simulation via Wokwi
+
+##start the broker
+
+./broker <IP_ADDRESS> <PORT>
+
+##Start the subscriber
+
+./subscriber <IP_ADDRESS> <PORT> <TOPIC>
+
+
