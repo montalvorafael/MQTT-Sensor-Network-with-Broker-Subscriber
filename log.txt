@@ -1,0 +1,380 @@
+<13>Jan 15 09:29:27 Broker: BROKER ENCENDIDO
+<13>Jan 15 09:29:27 Broker: ...Escuchando...
+<13>Jan 15 09:29:46 Broker: ***NUEVO SUSCRIBER***
+<13>Jan 15 09:29:46 Broker: Nuevo suscriber con tópico: nodos/nodo15/temperatura
+<13>Jan 15 09:29:57 Broker: ***NUEVO SUSCRIBER***
+<13>Jan 15 09:29:57 Broker: Nuevo suscriber con tópico: nodos/+/temperatura
+<13>Jan 15 09:30:43 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:30:43 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 50.50
+<13>Jan 15 09:30:43 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:30:43 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 50.50
+<13>Jan 15 09:30:44 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:30:44 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 18.80
+<13>Jan 15 09:30:45 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:30:45 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 18.80
+<13>Jan 15 09:30:51 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:30:51 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 50.50
+<13>Jan 15 09:30:51 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:30:51 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 50.50
+<13>Jan 15 09:30:52 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:30:52 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 18.80
+<13>Jan 15 09:30:53 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:30:53 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 18.80
+<13>Jan 15 09:31:01 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:01 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:31:01 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:01 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:31:05 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:05 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:31:05 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:05 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:31:16 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:16 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:31:17 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:17 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:31:18 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:18 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:31:18 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:18 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:31:30 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:30 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:31:30 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:30 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:31:37 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:37 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:31:37 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:37 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:31:44 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:44 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:31:44 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:44 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:31:45 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:45 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:31:45 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:45 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:31:55 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:55 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:31:55 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:31:55 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 55.50
+<13>Jan 15 09:32:00 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:00 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:01 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:01 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:07 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:07 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:08 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:08 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:09 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:09 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:09 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:09 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:17 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:17 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:18 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:18 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:18 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:18 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:18 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:18 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:25 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:25 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:25 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:25 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:26 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:26 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:26 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:26 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:36 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:36 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:37 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:37 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:41 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:41 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:41 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:41 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:52 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:52 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:52 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:52 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:32:56 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:56 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:32:57 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:32:57 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:08 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:08 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:33:08 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:08 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:33:09 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:09 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:09 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:09 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:17 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:17 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:33:17 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:17 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 87.00
+<13>Jan 15 09:33:18 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:18 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:19 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:19 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:25 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:25 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:33:25 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:25 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:33:26 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:26 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:27 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:27 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:34 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:34 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:33:34 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:34 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:33:38 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:38 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:39 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:39 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:44 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:44 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:33:45 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:45 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:33:46 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:46 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:46 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:46 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:52 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:52 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:33:52 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:52 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:33:53 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:53 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:33:53 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:33:53 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:03 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:03 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:03 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:03 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:12 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:12 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:13 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:13 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:21 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:21 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:21 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:21 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:22 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:22 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:22 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:22 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:30 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:30 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:30 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:30 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:34 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:34 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:34 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:34 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:43 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:43 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:43 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:43 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:44 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:44 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:45 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:45 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:51 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:51 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:51 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:52 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:34:52 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:52 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:34:53 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:34:53 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:02 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:02 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:03 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:03 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:08 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:08 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:08 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:08 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:20 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:20 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:20 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:20 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:24 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:24 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:24 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:25 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:38 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:38 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:38 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:38 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:39 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:39 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:40 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:40 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:45 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:45 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:45 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:45 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:46 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:46 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:46 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:46 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:51 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:51 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:51 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:51 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:35:55 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:55 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:35:55 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:35:55 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:00 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:00 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:01 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:01 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:02 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:02 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:02 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:02 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:07 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:07 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:07 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:07 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:08 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:08 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:08 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:09 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:15 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:15 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:15 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:15 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:17 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:17 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:18 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:18 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:22 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:22 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:23 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:23 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:23 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:23 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:24 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:24 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:29 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:29 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:29 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:29 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:32 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:32 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:32 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:32 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:37 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:37 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:37 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:37 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:40 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:40 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:40 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:40 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:49 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:49 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:50 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:50 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:53 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:53 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:53 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:53 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:36:58 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:58 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:36:58 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:36:58 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 76.00
+<13>Jan 15 09:37:00 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:00 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:37:00 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:00 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 30.70
+<13>Jan 15 09:37:05 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:05 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:05 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:05 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:06 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:06 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:15 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:15 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:16 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:16 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:17 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:17 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:23 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:23 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:23 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:23 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:27 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:27 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:32 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:32 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:32 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:32 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:34 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:34 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:41 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:41 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:41 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:41 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:42 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:42 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:52 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:52 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:53 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:53 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:53 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:53 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:37:58 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:58 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:37:58 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:37:59 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:38:02 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:38:02 Broker: ***NUEVO PUBLISHER***
+logger: invalid option -- '1'
+Try 'logger --help' for more information.
+<13>Jan 15 09:38:13 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:38:13 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:38:13 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:38:13 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:38:14 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:38:14 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 58.70
+<13>Jan 15 09:38:15 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:38:15 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 58.70
+<13>Jan 15 09:38:24 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:38:24 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:38:24 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:38:24 Broker: Publisher envio al tópico: nodos/nodo18/humedad el Mensaje: 54.50
+<13>Jan 15 09:38:30 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:38:30 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 58.70
+<13>Jan 15 09:38:30 Broker: ***NUEVO PUBLISHER***
+<13>Jan 15 09:38:30 Broker: Publisher envio al tópico: nodos/nodo18/temperatura el Mensaje: 58.70
